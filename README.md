@@ -19,7 +19,8 @@ This notebook provides a comprehensive introduction to exploratory data analysis
 This notebook provides a thorough overview of vectorization in Pandas and demonstrates the efficiency of vectorized operations over traditional loops, the concept of broadcasting in array manipulation, and how to apply arithmetic and comparison operations effectively in Pandas. Additionally, the notebook covers data querying and subsetting, highlighting the ease and speed of handling large datasets with these techniques. 
 
 
-
+## 6_0_summary_statistics.ipynb
+This notebook offers a concise overview of summary statistics, essential for data analysis. It covers key concepts like central tendency measures (mean, median, mode). The notebook also discusses measures of variability (range, variance, standard deviation) and quantiles (quartiles, percentiles) and highlights their role in describing data distribution. 
 
 
 
