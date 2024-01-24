@@ -15,6 +15,14 @@ This notebook introduces Pandas, the leading library for data wrangling. Specifi
 This notebook provides a comprehensive introduction to exploratory data analysis using Pandas. We start by exploring general dataset attributes, such as the number of rows and columns, and understanding column data types. The notebook then delves into methods for invoking descriptive statistics operations, such as calculating the mean and median, and describes the concept of axis in Pandas operations. The notebook also describes how missing values are handled  and provides insights into sorting data and concludes with practical examples of using basic Pandas plots for data visualization.
 
 
+## 5_arithmetic_ops_and_data_alignment.ipynb
+This notebook provides a thorough overview of vectorization in Pandas and demonstrates the efficiency of vectorized operations over traditional loops, the concept of broadcasting in array manipulation, and how to apply arithmetic and comparison operations effectively in Pandas. Additionally, the notebook covers data querying and subsetting, highlighting the ease and speed of handling large datasets with these techniques. 
+
+
+
+
+
+
 
 
 
