@@ -22,6 +22,22 @@ This notebook provides a thorough overview of vectorization in Pandas and demons
 ## 6_0_summary_statistics.ipynb
 This notebook offers a concise overview of summary statistics, essential for data analysis. It covers key concepts like central tendency measures (mean, median, mode). The notebook also discusses measures of variability (range, variance, standard deviation) and quantiles (quartiles, percentiles) and highlights their role in describing data distribution. 
 
+## 12_intro_probability.ipynb
+
+## 13_probability_distributions_binomial.ipynb
+
+## 14_probability_distributions_gaussian.ipynb
+
+## 15_kernel_density_estimation.ipynb
+
+## 16_KDE_bandwidth.ipynb
+
+## 17_param_estimation_intro.ipynb
+
+## 18_param_estimation_bootstrap.ipynb
+
+## 19_param_esitmation_maximum_likelihood.ipynb
+
 
 
 
