@@ -23,20 +23,32 @@ This notebook provides a thorough overview of vectorization in Pandas and demons
 This notebook offers a concise overview of summary statistics, essential for data analysis. It covers key concepts like central tendency measures (mean, median, mode). The notebook also discusses measures of variability (range, variance, standard deviation) and quantiles (quartiles, percentiles) and highlights their role in describing data distribution. 
 
 ## 12_intro_probability.ipynb
+This Jupyter Notebook serves as an introduction to basic probability concepts and terminology. I also introduces a simulation technique to illustrate the the long-term frequency of events by exploring a simple problem.
+
 
 ## 13_probability_distributions_binomial.ipynb
+This Jupyter Notebook introduces the binomial probability distribution, providing a comprehensive exploration through practical examples.
 
 ## 14_probability_distributions_gaussian.ipynb
+This Jupyter Notebook introduces the Guassian probability distribution, providing a comprehensive exploration through practical examples.
 
 ## 15_kernel_density_estimation.ipynb
+This Jupyter Notebook introduces kernel density estimation, starting with an overview of histograms, their limitations, and moves on to the concept and application of kernel density estimation as a more effective method for estimating the probability density function of a random variable.
 
 ## 16_KDE_bandwidth.ipynb
+This Jupyter Notebook focuses on the estimation of bandwidth in kernel density estimation, detailing the methodologies and considerations involved in selecting an optimal bandwidth to accurately approximate the probability density function of a dataset.
 
-## 17_param_estimation_intro.ipynb
+## 17_probability_distributions_poisson.ipynb
+This Jupyter Notebook introduces the Poisson probability distribution, providing a comprehensive exploration through practical examples.
 
 ## 18_param_estimation_bootstrap.ipynb
 
+This Jupyter Notebook covers parameter estimation with a focus on Bootstrap Confidence Intervals, explaining the process and techniques for estimating confidence intervals using the bootstrap method.
+
 ## 19_param_esitmation_maximum_likelihood.ipynb
+This Jupyter Notebook presents parameter estimation through maximum likelihood (ML). It privides a practical understanding of Likelihood, and delves into the concept and significance of Log Likelihood in optimizing parameter estimates.
+
+
 
 
 
