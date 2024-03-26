@@ -56,6 +56,6 @@ This Jupyter Notebook introduces Hierarchical Indexing, expanding upon its menti
 
 
 
+### 21_hypothesis_testing_normal.ipynb
 
-
-
+### 22_hypothesis_testing_multi_categories.ipynb
