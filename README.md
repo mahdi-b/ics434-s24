@@ -61,25 +61,25 @@ This Jupyter Notebook introduces the concept of multiple testing using bootstrap
 ### 22_hypothesis_testing_multi_categories.ipynb
 This Jupyter Notebook explores the technique of comparing proportions using bootstrap methods. It demonstrates how to create a simulated distribution of sample proportions through repeated bootstrapping, then compares these proportions to actual data to determine if observed differences are statistically significant or likely due to random variation.
 
-25_correlation.ipynb
+### 25_correlation.ipynb
 This Jupyter Notebook introduces the concept of correlation analysis. It explains how to calculate and interpret correlation coefficients, helping you understand the strength and direction of relationships between two variables. It also explains how to interpret the R-square statistic, which is common through out machine learning models.
 
-26_linear_regression.ipynb
+### 26_linear_regression.ipynb
 This Jupyter Notebook introduces the basics of linear regression. It walks you through the steps of fitting a linear model to data, helping you understand how to predict one variable based on another. The notebook includes simple, practical examples
 
-27_non_linear_regression.ipynb
+### 27_non_linear_regression.ipynb
 This Jupyter Notebook delves into non-linear regression, tailored for beginners in data science. It explains how to model relationships between variables that don't follow a straight line, using more complex functions. The notebook provides examples to illustrate the fitting of non-linear models to data, helping you grasp the basics of this important statistical technique.
 
-28_time_series_regression_based.ipynb
+### 28_time_series_regression_based.ipynb
 This Jupyter Notebook introduces the fundamentals of time series regression. It guides you through identifying trends (linear or non-linear) and seasonal patterns in time series data, and then models these characteristics to make forecasts. The notebook offers step-by-step examples to clearly demonstrate how to analyze and model time-related data effectively.
 
 
-29_exponential_smoothing.ipynb
+### 29_exponential_smoothing.ipynb
 This Jupyter Notebook explores exponential smoothing techniques, including single, double, and triple smoothing methods. It teaches how to apply these techniques to forecast data, adjusting for level, trend, and seasonality. The notebook provides straightforward examples to help you understand and implement exponential smoothing.
 
 
-30_clustering.ipynb
+### 30_clustering.ipynb
 This Jupyter Notebook introduces clustering techniques, focusing on k-means and hierarchical clustering. It explains how to group data based on similarities using simple Euclidean or non-Euclidean distances. The notebook includes practical examples to demonstrate both methods and introduces the silhouette coefficient to evaluate the quality of the clustering.
 
-31_mixture_models.ipynb
+### 31_mixture_models.ipynb
 This Jupyter Notebook explores the use of mixture models for clustering. It focuses on implementing the Expectation-Maximization (EM) algorithm to classify data into two clusters and discusses methods for extending this approach to more than two clusters. 
